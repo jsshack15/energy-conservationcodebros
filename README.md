@@ -9,6 +9,6 @@ codehimanshu (Himanshu Agrawal)
 
 The main features of the Project are:
 
-How to conserve energy
-Advantages of conserving energy
+How to conserve energy<br>
+Advantages of conserving energy<br>
 Use of Renewable source of energy
